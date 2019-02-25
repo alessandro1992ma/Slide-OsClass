@@ -1,0 +1,2 @@
+# Slide-OsClass
+Configurable slider
