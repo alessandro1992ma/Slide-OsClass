@@ -2,5 +2,3 @@
 <p align="center">
 Plugin for OsClass CMS
 </p>
-
-![](video-example.mp4)
