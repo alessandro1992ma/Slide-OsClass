@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-08 22:44+0200\n"
+"PO-Revision-Date: 2018-10-08 22:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.php:10
+msgid "Slider Option"
+msgstr ""
+
+#: admin.php:13
+msgid "Select and configure all parameters correctly for your custom slider"
+msgstr ""
+
+#: admin.php:21
+msgid "Image number"
+msgstr ""
+
+#: admin.php:24
+msgid "Number of visible banners"
+msgstr ""
+
+#: admin.php:29
+msgid "Slider title"
+msgstr ""
+
+#: admin.php:30
+msgid "Insert the title of the slider Ads"
+msgstr ""
+
+#: admin.php:31 admin.php:188
+msgid "Delete"
+msgstr ""
+
+#: admin.php:33
+msgid "The visible title for your slider ads"
+msgstr ""
+
+#: admin.php:38
+msgid "Min Height image"
+msgstr ""
+
+#: admin.php:41
+msgid "Minimum height of the images of the ads slider"
+msgstr ""
+
+#: admin.php:46
+msgid "Margin right image"
+msgstr ""
+
+#: admin.php:48
+msgid "Margin bottom image"
+msgstr ""
+
+#: admin.php:51
+msgid "Margins of the image of the slider"
+msgstr ""
+
+#: admin.php:56
+msgid "Loop slider"
+msgstr ""
+
+#: admin.php:59
+msgid "Infinity loop scrolling images for the slider ads"
+msgstr ""
+
+#: admin.php:64
+msgid "Autoplay slider"
+msgstr ""
+
+#: admin.php:67
+msgid "Autoplay of the slider"
+msgstr ""
+
+#: admin.php:72
+msgid "Autoplay speed"
+msgstr ""
+
+#: admin.php:75
+msgid "Scroll speed of slider images"
+msgstr ""
+
+#: admin.php:80
+msgid "Mouse drag image"
+msgstr ""
+
+#: admin.php:83
+msgid "Dragging images with the mouse"
+msgstr ""
+
+#: admin.php:88
+msgid "Touch drag image"
+msgstr ""
+
+#: admin.php:91
+msgid "Dragging images with the touch"
+msgstr ""
+
+#: admin.php:96
+msgid "Navigation arrows"
+msgstr ""
+
+#: admin.php:99
+msgid "Show Next/Prev buttons for navigation slider"
+msgstr ""
+
+#: admin.php:104
+msgid "Navigation dots"
+msgstr ""
+
+#: admin.php:107
+msgid "Show dots buttons for navigation slider"
+msgstr ""
+
+#: admin.php:112
+msgid "Responsive"
+msgstr ""
+
+#: admin.php:113
+msgid "Mobile 0"
+msgstr ""
+
+#: admin.php:120
+msgid "to Tablet 600"
+msgstr ""
+
+#: admin.php:129
+msgid "to Desktop 1000"
+msgstr ""
+
+#: admin.php:141
+msgid "The number of items you want to see on the screen"
+msgstr ""
+
+#: admin.php:145 admin.php:197
+msgid "Save"
+msgstr ""
+
+#: admin.php:152
+msgid "Upload Image"
+msgstr ""
+
+#: admin.php:157
+msgid ""
+"When uploading a new image, do not forget to clear your browser cache (CTRL "
+"+ R or CTRL + F5)"
+msgstr ""
+
+#: admin.php:159
+msgid "Supported formats: png, gif, jpg"
+msgstr ""
+
+#: admin.php:164
+msgid "Upload"
+msgstr ""
+
+#: admin.php:171
+msgid "Link Slider"
+msgstr ""
+
+#: admin.php:174
+msgid ""
+"Insert the link generated with the upload of an image into the ads boxes"
+msgstr ""
+
+#: admin.php:184
+msgid "Image"
+msgstr ""
+
+#: admin.php:185
+msgid "Insert the image link"
+msgstr ""
+
+#: admin.php:192
+msgid "You have not configured the number of boxes for the Ads slider"
+msgstr ""
+
+#: admin.php:204
+msgid "Help"
+msgstr ""
+
+#: admin.php:209
+msgid ""
+"Open the main.php file of the active template and insert the shortcode where "
+"you want the slider to be displayed."
+msgstr ""
+
+#: admin.php:211
+msgid "Path:"
+msgstr ""
+
+#: admin.php:213
+msgid ""
+"Shortcode: &lt;?php if(function_exists('cmsb_slider')) {echo "
+"cmsb_slider();} ?&gt;"
+msgstr ""
+
+#: admin.php:219
+msgid ""
+"Use the options panel to configure your slider remembering to save at the "
+"end."
+msgstr ""
+
+#: admin.php:225
+msgid "Use the Upload Image panel to upload and generate the link."
+msgstr ""
+
+#: admin.php:227
+msgid "Remember: your uploaded images are saved to the path"
+msgstr ""
+
+#: admin.php:233
+msgid ""
+"Use the Link Slider options panel to insert links to the images you want to "
+"show."
+msgstr ""
+
+#: admin.php:235
+msgid ""
+"Remember: you can also use external links and not uploaded via the Upload "
+"Image panel."
+msgstr ""
+
+#: admin.php:239
+msgid "For problems you can contact us at"
+msgstr ""
+
+#: admin.php:239
+msgid "info@cmsblog.it"
+msgstr ""
+
+#: admin.php:243
+msgid "Thank you for purchasing our plugin."
+msgstr ""
+
+#: functions.php:20
+msgid "Slider carousel control panel CMSblog"
+msgstr ""
+
+#: functions.php:139
+msgid "Parameters set correctly"
+msgstr ""
+
+#: functions.php:152
+msgid "Links set correctly"
+msgstr ""
+
+#: functions.php:169
+msgid "Image uploaded successfully"
+msgstr ""
+
+#: functions.php:173 functions.php:177
+msgid "An error has occurred, please try again"
+msgstr ""
+
+#: index.php:53
+msgid "Slider panel CMSB"
+msgstr ""
